@@ -1,3 +1,3 @@
 hai
 Iam Charishma
-Learning GitHub
+learning GitHub
